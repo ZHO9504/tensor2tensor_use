@@ -33,6 +33,6 @@ __init__.py:
  from . import my_problem
 
 ```
-my_problem.py: just reference for the script in:https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/data_generators
+my_problem.py: just reference to the script in:https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/data_generators
 
 
